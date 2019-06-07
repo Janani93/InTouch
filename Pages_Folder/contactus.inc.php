@@ -9,7 +9,7 @@
                     <address style="font-size: 100%">
 		              25, Akuressa Road, Matara<br>
 		              Sri Lanka<br>
-		              <i class="fa fa-phone"></i>: +94 417 356 555<br>
+		              <i class="fa fa-phone"></i>: +94 417<br>
 		              <i class="fa fa-fax"></i>: +94 417 356 690<br>
 		              <i class="fa fa-envelope"></i>:
                         <a href="mailto:intouch@solutions.lk">intouch@solutions.lk</a>
