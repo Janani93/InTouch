@@ -93,7 +93,7 @@
            </div>
            <div class="row justify-content-center">             
                 <div class="col-auto">
-                    <p>© Copyright 2019 InTouch Solutions</p>
+                    <p>© Copyright 2020 InTouch Solutions</p>
                 </div>
            </div>
         </div>
